@@ -1,0 +1,58 @@
+.father{
+    background-color: #201e1e;
+    color:white;
+    margin-bottom:3px ;
+}
+
+.img{
+  
+    background-image: url(../Faculdade/Colorful\ Holowgraphic\ Graphic\ Design\ Google\ Classroom\ Header.png);
+    background-size: cover;
+    background-position: center;
+    margin-bottom: -25px;
+   
+
+}
+
+.header, a{ 
+
+    background-color: rgb(52, 52, 187) ;
+    text-align: center;
+    color: white;
+
+   
+}
+
+.linkk{
+    background-color: rgb(52, 52, 187) ;
+    color: white;
+}
+
+
+.horario {
+    border: 1px solid wheat;
+    color: white;
+
+    
+}
+
+table , th , tr , td{
+    border: 1px solid blue;
+    margin:auto;
+    padding: 0px;
+   width: 800px;
+
+    
+}
+
+td{
+    background-color: #201e1e;
+    color:white;
+    padding: 1px;
+}
+
+th{
+    color:black;
+    padding-right: 5px;
+
+}
